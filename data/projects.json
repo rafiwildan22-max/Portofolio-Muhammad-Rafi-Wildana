@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Data Logger",
+        "year": "2025",
+        "partner": "CV. PCB Expres Jogja",
+        "role": "Assembler",
+        "description": "A data logger is a device that can record, store, and transmit data to a server. Data loggers can operate autonomously or in a hybrid mode, either via the internet or the power grid.",
+        "image": "images/logger.jpeg",
+        "link": "https://pcbjogja.com/data-logger/"
+    },
+    {
+        "title": "Two-Way Nurse Call",
+        "year": "2025",
+        "partner": "CV. PCB Expres Jogja",
+        "role": "Engineer",
+        "description": "The Wireless Two-Way Nurse Call System is an advanced solution for direct communication between patients and medical staff without the use of cables.",
+        "image": "images/dua arah.jpeg",
+        "link": "https://pcbjogja.com/nurse-call-2-arah/"
+    },
+	{
+        "title": "One-Way Nurse Call",
+        "year": "2025",
+        "partner": "CV. PCB Expres Jogja",
+        "role": "Engineer",
+        "description": "The Wireless One-Way Nurse Call System is a nurse call system used in hospitals that is installed at each patient’s bedside.",
+        "image": "images/satu arah.jpeg",
+        "link": "https://pcbjogja.com/nurse-call-1-arah/"
+  
+	}
+]

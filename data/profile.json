@@ -1,0 +1,34 @@
+{
+    "name": "Muhammad Rafi Wildana",
+    "description": "Motivated and customer oriented Sales Associate with experience in retail sales and customer service, especially in the vape and lifestyle industry. Skilled in communication, product promotion, and building good relationships with customers to achieve sales targets. Able to work both independently and in a team, with a strong willingness to learn and adapt in fastpaced environments. Currently pursuing a Diploma in Electronic Engineering while developing professional experience in sales and service.",
+    "profileImage": "images/Profile Rafi.jpeg",
+    "email": "rafiwildan22@gmail.com",
+    "phone": "+62 (838) 794-45213",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/muhammad-rafi-wildana-b588682b0?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/rafiwildan_?igsh=MW1zbTBwaHBiazBqdA=="
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/settings/profile"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/Rafi CV.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        
+        {"name": "Microcontroller Programming", "icon": "fas fa-microchip", "level": 60},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 70},
+        {"name": "Marketing", "icon": "fas fa-basket-shopping", "level": 75},
+	{"name": "Public Speaking", "icon": "fas fa-bullhorn", "level": 70},
+	{"name": "English", "icon": "fas fa-language", "level": 70}
+    ]
+}

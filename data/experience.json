@@ -1,0 +1,23 @@
+[
+    {
+        "company": "S3 Vape Salatiga",
+		"logo":"images/S3 logo.jpg",
+        "position": "Vaporista",
+        "year": "2023 - Present",
+        "description": "As a Vaporista, I was responsible for assisting customers in selecting vape products that matched their preferences and needs. My duties included explaining product features, recommending e-liquids and devices, setting up and configuring vape devices, replacing coils, troubleshooting basic device issues, and ensuring customers understood proper usage and maintenance. I also handled product sales, managed inventory, and provided excellent customer service to create a positive shopping experience."
+    },
+	{
+        "company": "Nearless Shoes Treatment",
+		"logo":"images/near logo.jpg",
+        "position": "Service Promotion And Courier",
+        "year": "2025 - Present",
+        "description": "As a Service Promotion and Courier Staff at a shoe treatment service company, I was responsible for promoting shoe cleaning, restoration, and maintenance services to potential customers. I assisted in increasing customer awareness through direct promotion and customer engagement. In addition, I handled the pickup and delivery of customers' shoes, ensuring timely, safe, and reliable transportation while maintaining excellent customer service and communication throughout the service process."
+    },
+    {
+        "company": "Sinar Djaya",
+		"logo":"images/sinar logo.jpg",
+        "position": "Chef Assistant",
+        "year": "2025 - Present",
+        "description": "As a Chef Assistant in a small restaurant, I assisted the chef with food preparation, ingredient handling, and kitchen operations. My responsibilities included preparing ingredients, maintaining cleanliness and hygiene standards, assisting in cooking and plating dishes, organizing kitchen supplies, and ensuring smooth daily operations. I worked closely with the kitchen team to provide quality meals and efficient service to customers."
+    }
+]
